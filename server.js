@@ -6,7 +6,7 @@
 
     // HTTP Archive Request Object
     har: {
-      url: 'https://testapi.fortum.com/TSU/v1/Web2Leads/',
+      url: 'https://testapi.fortum.com/TSU/v1/Web2Leads/har',
       method: 'POST',
       headers: [
         {
