@@ -3,7 +3,7 @@ var request = require("request");
 var options = { method: 'POST',
   url: 'https://testapi.fortum.com/TSU/v1/Web2Leads',
   headers: 
-   { 'Postman-Token': 'a0889516-4099-41c6-bd15-f3595fbe7e05',
+   { 
      'Cache-Control': 'no-cache',
      TargetSystem: 'TSU',
      RequestingSystem: 'WEB',
