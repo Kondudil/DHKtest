@@ -1,12 +1,27 @@
 {
-  "name": "nodejs-web-app2",
-  "version": "0.0.2",
+  "name": "test",
+  "version": "0.4.0",
   "description": "NodejsWebApp2",
   "main": "server.js",
-  "author": {
-    "name": "Dilek"
-  },
+  "author": "Dilek",
   "dependencies": {
+    "curl": "^0.1.4",
+    "left-pad": "^1.3.0",
+    "node-libcurl": "^1.3.3",
+    "request": "^2.88.0",
     "unirest": "^0.5.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konudil/DHKtest.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konudil/DHKtest/issues"
+  },
+  "homepage": "https://github.com/konudil/DHKtest#readme"
 }
