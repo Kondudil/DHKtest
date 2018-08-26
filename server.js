@@ -14,7 +14,7 @@ req.form({
   "CipherText": "tNR4HLTUYLJSoWZU%2BdaeaauEaYeRHjH3aHhybr8ZfdfhAy5QXKPe47ANQGNHFAVIc6%2FNij9WGDYq3oe5nHIAAP5SSqgopLlr94%2FekK9FRsg%3D&Type=",
   "FirstName": "Dilek",
   "LastName": "Konduk",
-  "EmailAddress": "dilek.konduk@test007.com",
+  "EmailAddress": "dilek.konduk@test0007.com",
   "MobilePhone": "07392612121212",
   "AdditionalInfo1": "1100110055"
 });
