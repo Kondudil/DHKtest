@@ -15,9 +15,13 @@ var options = { method: 'POST',
      EmailAddress: 'dilek.konduk@test007.com',
      MobilePhone: '07392612121212',
      AdditionalInfo1: '1100110055' } };
+	
 
-request(options, function (error, response, body) {
-  if (error) throw new Error(error);
-
-  console.log(body);
+request(options, function (error, response, body) {	
+	 console.log("Exeption:+ body " + body);
 });
+//request(options, function (error, response, body) {
+  //if (error) throw new Error(error);
+
+ // console.log("Exeption: " + body);
+//});
